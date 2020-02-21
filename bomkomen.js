@@ -174,16 +174,15 @@ console.log(chalk`
   [?] {bold.green BOM KOMEN POST TARGET *SET SLEEP!}
 
   ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@officialputu_id)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
+  [✓] RECODE BY FIKI (@fikiandiardiansyah)
+  [✓] FIXING & TESTING BY FIKI ANDI ARDIANSYAH
+  [✓] ONANIMOSS REBORN  
   —————————————————————————————————————————————————————
   What's new?
   1. Input Target/delay Manual (ITTYW)
   —————————————————————————————————————————————————————}
       `);
-//ikiganteng
+//onanimoss
 inquirer.prompt(User)
 .then(answers => {
   var text = answers.text.split('|');
