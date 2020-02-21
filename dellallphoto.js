@@ -125,7 +125,7 @@ console.log(chalk`
 
   ——————————————————  [THANKS TO]  ————————————————————
   [✓] RECODE BY FIKI (@fikiandiardiansyah)
-  [✓] FIXING & TESTING BY FIKI
+  [✓] FIXING & TESTING BY FIKI ANDI ARDIANSYAH
   [✓] ONANIMOSS REBORN
   —————————————————————————————————————————————————————}
       `);
